@@ -2,7 +2,7 @@
 
 ## How to test?
 * Go to https://play.google.com/console/u/0/internal-app-sharing
-* Upload two apk with different vresion number
+* Upload two apk/abb with different vresion number
 
 * Make sure your app package name have a name of an app that is published on store. Also you should own that package
 
